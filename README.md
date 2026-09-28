@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Maria 👋
 
-<!--
-**kmariia777/kmariia777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior QA Engineer** with 5+ years testing FinTech web apps. My core is risk-based and exploratory testing with full release-quality ownership — the kind of testing that catches what scripts miss.
 
-Here are some ideas to get you started:
+## What I'm doing now
+- 🎭 Rebuilding automation properly: Playwright + TypeScript (Bondar Academy)
+- 📚 [QA Engineer Interview Study Guide](https://github.com/kmariia777/qa-interview-guide)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Toolbox
+Risk-based testing · Exploratory testing · API testing · Playwright · TypeScript · FinTech releases
+
+## Find me
+- 💼 [LinkedIn](https://www.linkedin.com/in/kmariia777/)
